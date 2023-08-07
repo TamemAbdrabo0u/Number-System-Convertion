@@ -1,0 +1,8 @@
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\bin\Debug\Number System Conersion.exe.config
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\bin\Debug\Number System Conersion.exe
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\bin\Debug\Number System Conersion.pdb
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\obj\Debug\Number System Conersion.csproj.AssemblyReference.cache
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\obj\Debug\Number System Conersion.csproj.SuggestedBindingRedirects.cache
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\obj\Debug\Number System Conersion.csproj.CoreCompileInputs.cache
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\obj\Debug\Number System Conersion.exe
+E:\Visuale Studio\Console App\Number System Conersion\Number System Conersion\obj\Debug\Number System Conersion.pdb
